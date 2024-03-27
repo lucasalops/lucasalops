@@ -23,14 +23,12 @@ Currently studying Computer Science at Federal University of Lavras ([UFLA](http
 ![CSS3](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJS-00b5f8?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-white?style=for-the-badge&logo=dart&logoColor=blue)
-![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-orange.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyNi4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iQ2FtYWRhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgNjQgNjQiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDY0IDY0OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+DQo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMjMuMiw0OS41YzAsMC0yLjUsMS41LDEuNywxLjljNSwwLjYsNy43LDAuNSwxMy4yLTAuNWMxLjEsMC43LDIuMywxLjMsMy41LDEuN0MyOS4yLDU3LjksMTMuNCw1Mi4zLDIzLjIsNDkuNQ0KCUwyMy4yLDQ5LjV6IE0yMS42LDQyLjVjMCwwLTIuNywyLDEuNSwyLjVjNS41LDAuNSw5LjcsMC42LDE3LjEtMC45YzAuNywwLjcsMS42LDEuMywyLjYsMS42QzI3LjcsNTAuMiwxMC45LDQ2LjIsMjEuNiw0Mi41DQoJTDIxLjYsNDIuNXogTTUxLjEsNTQuN2MwLDAsMS44LDEuNS0yLDIuN2MtNy4yLDIuMS0zMCwyLjgtMzYuNCwwYy0yLjItMSwyLTIuMywzLjQtMi42YzEuNC0wLjMsMi4xLTAuMywyLjEtMC4zDQoJYy0yLjUtMS43LTE2LjQsMy41LTcuMSw1QzM2LjcsNjMuNyw1Ny43LDU3LjcsNTEuMSw1NC43TDUxLjEsNTQuN3ogTTI0LjQsMzUuM2MwLDAtMTEuNiwyLjgtNC4yLDMuN2MzLjIsMC40LDkuNSwwLjMsMTUuNC0wLjENCgljNC44LTAuNCw5LjYtMS4zLDkuNi0xLjNzLTEuNywwLjctMi45LDEuNWMtMTEuOSwzLjEtMzQuNiwxLjctMjguMS0xLjVDMTkuOCwzNC45LDI0LjQsMzUuMywyNC40LDM1LjNMMjQuNCwzNS4zeiBNNDUuMiw0Ni45DQoJYzEyLTYuMiw2LjQtMTIuMiwyLjYtMTEuNGMtMSwwLjItMS40LDAuNC0xLjQsMC40czAuMy0wLjYsMS4xLTAuOWM3LjYtMi43LDEzLjYsOC0yLjUsMTIuMkM0NSw0Ny4yLDQ1LjEsNDcuMSw0NS4yLDQ2LjlMNDUuMiw0Ni45eg0KCSBNMjUuNiw2My44YzExLjUsMC43LDI5LjItMC40LDI5LjYtNS45YzAsMC0wLjksMi4xLTkuNSwzLjdjLTkuOCwxLjgtMjIsMS42LTI5LjIsMC40QzE2LjUsNjIuMSwxOCw2My40LDI1LjYsNjMuOEwyNS42LDYzLjh6Ii8+DQo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMzgsMGMwLDAsNi42LDYuNy02LjMsMTYuOWMtMTAuNCw4LjItMi40LDEyLjksMCwxOC4zYy02LjEtNS41LTEwLjUtMTAuMy03LjUtMTQuN0MyOC42LDEzLjgsNDAuNywxMC42LDM4LDB6DQoJIE0zNC42LDMwLjdjMy4xLDMuNS0wLjksNi43LTAuOSw2LjdzNy45LTQuMSw0LjMtOS4xYy0zLjMtNC44LTUuOS03LjIsOC0xNS4yQzQ2LDEzLjEsMjQuMSwxOC42LDM0LjYsMzAuN3oiLz4NCjwvc3ZnPg0K&style=for-the-badge)
-
-![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-white?style=for-the-badge&logo=dart&logoColor=blue)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white)
 <br />
 <br />
 
