@@ -27,8 +27,8 @@ Currently studying Computer Science at Federal University of Lavras ([UFLA](http
 ![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-white?style=for-the-badge&logo=dart&logoColor=blue)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 <br />
 <br />
 
