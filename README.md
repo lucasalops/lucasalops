@@ -1,13 +1,13 @@
 <!--
-![](https://komarev.com/ghpvc/?username=olucaslopesx&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=lucasalvarengalopes&color=lightgrey)
 ---
 -->
 
 ### Hello World! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 \
 \
-[![olucaslopesx's GitHub stats](https://github-readme-stats.vercel.app/api?username=olucaslopesx&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olucaslopesx&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![lucasalvarengalopes's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasalvarengalopes&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalvarengalopes&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
 
@@ -36,8 +36,8 @@ Currently studying Computer Science at Federal University of Lavras ([UFLA](http
 \
 [![Gmail Badge](https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucasalvarengalopes@gmail.com)](mailto:lucasalvarengalopes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2.svg?logo=data:image/svg%2bxml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiBoZWlnaHQ9IjgwMHB4IiB3aWR0aD0iODAwcHgiIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZpZXdCb3g9IjAgMCAzMTAgMzEwIiB4bWw6c3BhY2U9InByZXNlcnZlIiBzdHJva2U9IiNmZmZmZmYiPgoNPGcgaWQ9IlNWR1JlcG9fYmdDYXJyaWVyIiBzdHJva2Utd2lkdGg9IjAiLz4KDTxnIGlkPSJTVkdSZXBvX3RyYWNlckNhcnJpZXIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgoNPGcgaWQ9IlNWR1JlcG9faWNvbkNhcnJpZXIiPiA8ZyBpZD0iWE1MSURfODAxXyI+IDxwYXRoIGlkPSJYTUxJRF84MDJfIiBkPSJNNzIuMTYsOTkuNzNIOS45MjdjLTIuNzYyLDAtNSwyLjIzOS01LDV2MTk5LjkyOGMwLDIuNzYyLDIuMjM4LDUsNSw1SDcyLjE2YzIuNzYyLDAsNS0yLjIzOCw1LTVWMTA0LjczIEM3Ny4xNiwxMDEuOTY5LDc0LjkyMiw5OS43Myw3Mi4xNiw5OS43M3oiLz4gPHBhdGggaWQ9IlhNTElEXzgwM18iIGQ9Ik00MS4wNjYsMC4zNDFDMTguNDIyLDAuMzQxLDAsMTguNzQzLDAsNDEuMzYyQzAsNjMuOTkxLDE4LjQyMiw4Mi40LDQxLjA2Niw4Mi40IGMyMi42MjYsMCw0MS4wMzMtMTguNDEsNDEuMDMzLTQxLjAzOEM4Mi4xLDE4Ljc0Myw2My42OTIsMC4zNDEsNDEuMDY2LDAuMzQxeiIvPiA8cGF0aCBpZD0iWE1MSURfODA0XyIgZD0iTTIzMC40NTQsOTQuNzYxYy0yNC45OTUsMC00My40NzIsMTAuNzQ1LTU0LjY3OSwyMi45NTRWMTA0LjczYzAtMi43NjEtMi4yMzgtNS01LTVoLTU5LjU5OSBjLTIuNzYyLDAtNSwyLjIzOS01LDV2MTk5LjkyOGMwLDIuNzYyLDIuMjM4LDUsNSw1aDYyLjA5N2MyLjc2MiwwLDUtMi4yMzgsNS01di05OC45MThjMC0zMy4zMzMsOS4wNTQtNDYuMzE5LDMyLjI5LTQ2LjMxOSBjMjUuMzA2LDAsMjcuMzE3LDIwLjgxOCwyNy4zMTcsNDguMDM0djk3LjIwNGMwLDIuNzYyLDIuMjM4LDUsNSw1SDMwNWMyLjc2MiwwLDUtMi4yMzgsNS01VjE5NC45OTUgQzMxMCwxNDUuNDMsMzAwLjU0OSw5NC43NjEsMjMwLjQ1NCw5NC43NjF6Ii8+IDwvZz4gPC9nPgoNPC9zdmc+&style=for-the-badge&link=https://linkedin.com/in/lucasalvarengalopes)](https://linkedin.com/in/lucasalvarengalopes)
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/olucaslopesx)](https://instagram.com/olucaslopesx)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/lucasalvarengalopes)](https://instagram.com/lucasalvarengalopes)
 
 <!--
-**olucaslopesx/olucaslopesx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lucasalvarengalopes/lucasalvarengalopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
